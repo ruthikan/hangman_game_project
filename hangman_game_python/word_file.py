@@ -1,0 +1,13 @@
+words=[
+    "jenny",
+    "apple",
+    "beautiful",
+    "mango",
+    "jayanti",
+    "ruthika",
+    "attitude",
+    "aeroplane",
+    "blackboard",
+    "car",
+    "busstand"
+]
