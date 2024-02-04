@@ -10,4 +10,10 @@ words=[
     "blackboard",
     "car",
     "busstand"
+    "Amusement",
+    "Appeal",
+    "Ambition",
+    "Accept",
+    "Sincerity",
+    "Seek"
 ]
